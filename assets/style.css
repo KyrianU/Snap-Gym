@@ -1,0 +1,10 @@
+/* Google Fonts Imports */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Russo+One&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+
+/* Header Section */
