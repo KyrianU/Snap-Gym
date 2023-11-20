@@ -9,14 +9,14 @@
 /* Header Section */
 
 header {
-    height: 100px;
-    background-color: #b3c6ff;
+    height: 75px;
+    background-color: #EFF0E1;
 }
 
 body {
     font-weight: 300;
     color: #404040;
-    background-color: #b3c6ff;
+    background-color: #EFF0E1;
     font-family: 'Russo One', sans-serif;
 }
 
@@ -33,7 +33,7 @@ h1 {
     float: left;
     font-size: 280%;
     margin-left: 30px;
-    text-shadow: 2px 2px 4px #3385ff;
+    text-shadow: 2px 2px 4px #333333;
 }
 
 #menu {
@@ -56,8 +56,8 @@ h1 {
 
 
 #menu a:hover {
-    border-bottom: 1px solid #3385ff;
-    color: #fff;
+    border-bottom: 1px solid #990000;
+    color: #990000;
 }
 
 #menu a {
@@ -67,7 +67,7 @@ h1 {
 }
 
 .active {
-    border-bottom: 1px solid #3385ff;
+    border-bottom: 1px solid #990000;
 }
 
 #slider {
@@ -79,7 +79,7 @@ h1 {
     width: 500%;
     margin: 0;
     left: 0;
-    animation: 20s slider infinite;
+    animation: 30s slider infinite;
 }
 
 #slider figure img {
@@ -112,5 +112,8 @@ h1 {
     }
     95% {
         left: -300%;
+    }
+    100% {
+        left: -400%;
     }
 }
