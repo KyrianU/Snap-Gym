@@ -23,6 +23,9 @@ header {
 }
 
 body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
     font-weight: 300;
     color: #404040;
     background-color: #EFF0E1;
@@ -185,4 +188,23 @@ h1 {
 .row h3, p {
     text-align: center;
     padding: 10px;
+}
+
+footer {
+    
+    border-top: 3px solid #333333;
+}
+
+#social-networks {
+    text-align: center;
+    padding: 5px 5px;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 170%;
+    padding: 5%;
+    color: #333333;
 }
