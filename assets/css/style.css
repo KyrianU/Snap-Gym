@@ -209,10 +209,21 @@ footer {
     color: #333333;
 }
 
+#workout-header>h2 {
+    margin-top: 70px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 30px 0;
+    text-align: center;
+    height: auto;
+    
+}
+
 .column1 {
     float: left;
-    width: 24%;
+    width: 23%;
     padding: 0 10px;
+    margin-top: 16px;
 }
 
 @media screen and (max-width: 650px) {
@@ -224,4 +235,14 @@ footer {
 
 .card1 {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container1 {
+    padding: 0 16px;
+}
+
+.container1::after, row::after {
+    content: "";
+    clear: both;
+    display: table;
 }
