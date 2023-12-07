@@ -208,3 +208,20 @@ footer {
     padding: 5%;
     color: #333333;
 }
+
+.column1 {
+    float: left;
+    width: 24%;
+    padding: 0 10px;
+}
+
+@media screen and (max-width: 650px) {
+    .column1{
+        width: 100%;
+        display: block;
+    }
+}
+
+.card1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
