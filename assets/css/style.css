@@ -246,3 +246,46 @@ footer {
     clear: both;
     display: table;
 }
+
+.timetable-header {
+    clear: left;
+    background-size: cover;
+    background-position: center;
+    height: 850px;
+}
+
+#page-header>h2 {
+    background-color: #ff8080;
+    color: #ffff;
+    margin: auto 0;
+    margin-top: 30px;
+    text-align: center;
+    padding: 30px 0;
+}
+
+table {
+    border: 5px solid #ff8080;
+    background-color: azure;
+    margin: 0 auto;
+    width: 75%;
+    height: 300px;
+}
+
+table th {
+    font-size: 15px;
+    padding: 20px;
+    text-align: left;
+    margin: 20px;
+    border-bottom: 1px solid #ff9999;
+    background-color: #ff9999;
+}
+
+table td {
+    font-size: 18px;
+    text-align: center;
+    padding: 7px;
+}
+
+tr:nth-of-type(odd) {
+    background-color: #ff6666;
+}
