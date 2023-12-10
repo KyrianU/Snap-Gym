@@ -190,25 +190,6 @@ h1 {
     padding: 10px;
 }
 
-footer {
-    
-    border-top: 3px solid #333333;
-}
-
-#social-networks {
-    text-align: center;
-    padding: 5px 5px;
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
-}
-
-#social-networks i {
-    font-size: 170%;
-    padding: 5%;
-    color: #333333;
-}
-
 #workout-header>h2 {
     margin-top: 70px;
     margin-bottom: 20px;
@@ -299,4 +280,32 @@ tr:nth-of-type(odd) {
     margin-top: 45px;
     font-weight: 200%;
     text-align: center;
+}
+
+#location > iframe {
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: block;
+    min-width: 600px;
+    min-height: 400px;
+}
+
+footer {
+    
+    border-top: 3px solid #333333;
+}
+
+#social-networks {
+    text-align: center;
+    padding: 5px 5px;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 170%;
+    padding: 5%;
+    color: #333333;
 }
