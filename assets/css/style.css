@@ -236,6 +236,9 @@ h1 {
     display: table;
 }
 
+.container1 > h3 {
+    text-align: center;
+}
 
 /* Timetable section */
 
