@@ -82,6 +82,8 @@ h1 {
     border-bottom: 1px solid #990000;
 }
 
+/* Slider feature */
+
 #slider {
     overflow: hidden;
 }
@@ -130,6 +132,8 @@ h1 {
     }
 }
 
+/* What SnapGym offers */
+
 #welcome {
     text-align: center;
     text-transform: uppercase;
@@ -152,6 +156,8 @@ h1 {
     left: 15%;
     top: 30px;
 }
+
+/* Meet the team section */
 
 .column {
     float: left;
@@ -190,6 +196,8 @@ h1 {
     padding: 10px;
 }
 
+/* Types of workout classes */
+
 #workout-header>h2 {
     margin-top: 70px;
     margin-bottom: 20px;
@@ -227,6 +235,9 @@ h1 {
     clear: both;
     display: table;
 }
+
+
+/* Timetable section */
 
 .timetable-header {
     clear: left;
@@ -272,6 +283,8 @@ tr:nth-of-type(odd) {
     background-color: #ff6666;
 }
 
+/* Google maps location */
+
 #location {
     margin: 15px auto;
 }
@@ -290,6 +303,8 @@ tr:nth-of-type(odd) {
     min-width: 600px;
     min-height: 400px;
 }
+
+/* footer section */
 
 footer {
     
