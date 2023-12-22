@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Fitness community for fitness enthusiast">
+    <meta name="keywords" content="Snap-Gym, fitness community in Oxford">
+
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Snap-Gym</title>
+</head>
+
+<!--Header / Nav links section -->
+
+<body>
+    <header>
+        <a href="index.html">
+            <h1 id="logo">SnapGym</h1>
+        </a>
+        <nav>
+            <ul id="menu">
+                <li>
+                    <a href="signup.html" class="active">Sign Up</a>
+                </li>
+                <li>
+                    <a href="classes.html">Classes</a>
+                </li>
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <!--Sign up form-->
+
+    <section class="form">
+
+        <div id="form-div">
+            <form method="get" action="https://formdump.codeinstitute.net/" target="_blank">
+
+                <h2>Sign Up Here</h2>
+                <label for="first_name">First Name:</label>
+                <input type="text" id="first_name" name="first_name" class="text-input" required>
+                <br>
+                <label for="last_name">Last Name:</label>
+                <input type="text" id="last_name" name="last_name" class="text-input" required>
+                <br>
+                <label for="email">Email Address:</label>
+                <input type="text" id="email" name="email" class="text-input" required>
+                <br>
+                <div class="row">
+                    <label id="cycle" class="block-label">Cycle Classes</label>
+                    <select name="cycle-class" required>
+
+                        <option value="">Select Time</option>
+                        <option value="Monday 08:00am">Monday 08:00am</option>
+                        <option value="Tuesday 10:00am">Tuesday 10:00am</option>
+                        <option value="Wednesday 15:00pm">Wednesday 15:00pm</option>
+                        <option value="Thursday 18:00pm">Thursday 18:00pm</option>
+                        <option value="Friday 10:00am">Friday 10:00am</option>
+                        <option value="Friday 18:00pm">Friday 18:00pm</option>
+                        <option value="Saturday 15:00pm">Saturday 15:00pm</option>
+                    </select>
+                </div>
+
+                <div class="row">
+                    <label id="Strength" class="block-label">Strength Classes</label>
+                    <select name="strength-classes" required>
+
+                        <option value="">Select time</option>
+                        <option value="Monday 10:00am">Monday 10:00am</option>
+                        <option value="Monday 18:00pm">Monday 18:00pm</option>
+                        <option value="Tuesday 12:00pm">Tuesday 12:00pm</option>
+                        <option value="Wednesday 08:00am">Tuesday 08:00am</option>
+                        <option value="Thursday 15:00pm">Thursday 15:00pm</option>
+                        <option value="Friday 12:00pm">Saturday 12:00pm</option>
+                    </select>
+                </div>
+
+                <div class="row">
+                    <label id="HIIT" class="block-label">HIIT Classes</label>
+                    <select name="HIIT-classes" required>
+
+                        <option value="">Select Time</option>
+                        <option value="Monday 12:00pm">Monday 12:00pm</option>
+                        <option value="Tuesday 08:00am">Tuesday 08:00am</option>
+                        <option value="Tuesday 15:00pm">Tuesday 15:00pm</option>
+                        <option value="Wednesday 18:00pm">Wednesday 18:00pm</option>
+                        <option value="Thursday 10:00am">Thursday 10:00am</option>
+                        <option value="Friday 08:00am">Friday 08:00am</option>
+                        <option value="Friday 15:00pm">Friday 15:00pm</option>
+                        <option value="Saturday 18:00pm">Saturday 18:00pm</option>
+                    </select>
+                </div>
+
+                <div class="row">
+                    <label id="Circuit" class="block-label">Circuit Classes</label>
+                    <select name="Circuit" required>
+
+                        <option value="">Select Time</option>
+                        <option value="Monday 15:00pm">Monday 15:00pm</option>
+                        <option value="Tuesday 18:00pm">Tuesday 18:00pm</option>
+                        <option value="Wednesday 10:00am">Wednesday 10:00am</option>
+                        <option value="Wednesday 12:00am">Wednesday 12:00am</option>
+                        <option value="Thursday 08:00am">Thursday 08:00am</option>
+                        <option value="Thursday 18:00pm">Thursday 18:00pm</option>
+                        <option value="Saturday 10:00am">Saturday 10:00am</option>
+                    </select>
+                </div>
+            </form>
+        </div>
+    </section>
+</body>
