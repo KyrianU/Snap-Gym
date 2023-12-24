@@ -318,6 +318,16 @@ tr:nth-of-type(odd) {
     min-height: 400px;
 }
 
+/* Sign up form section */
+
+.form {
+
+    background: url(../images/pexels-ivan-samkov-4164847.jpg) no-repeat center center;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+}
+
 /* footer section */
 
 footer {
