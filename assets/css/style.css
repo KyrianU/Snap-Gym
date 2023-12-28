@@ -331,6 +331,7 @@ tr:nth-of-type(odd) {
     background: url(../images/pexels-ivan-samkov-4164847.jpg) no-repeat center center;
     background-size: cover;
     background-position: 50%;
+    margin-top: 50px;
     height: 700px;
     
 }
