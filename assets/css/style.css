@@ -370,11 +370,29 @@ option {
 
 }
 
+
 select {
 
     height: 30px;
     width: 110px;
     border: 1px solid #990000;
+}
+
+.button-join {
+
+    border-radius: 4px;
+    padding: 15px 20px 15px 20px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 100%;
+    background-color: #fafafa;
+
+}
+
+.button-join:hover {
+
+    background-color: #990000;
+    color: #333333;
 }
 
 /* footer section */
