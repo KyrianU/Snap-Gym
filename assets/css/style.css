@@ -4,7 +4,7 @@
 * {
     padding: 0;
     margin: 0;
-    border: none;
+    box-sizing: border-box;
 }
 
 /* Header Section */
@@ -27,7 +27,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
     font-weight: 300;
-    color: #404040;
+    color: #000000;
     background-color: #ffff;
     font-family: 'Roboto', sans-serif;
 }
@@ -80,6 +80,29 @@ h1 {
 
 .active {
     border-bottom: 1px solid #990000;
+}
+
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none;
+    top: 100%;
+}
+
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
 }
 
 /* Slider feature */
@@ -173,9 +196,10 @@ h1 {
 
 .column {
     float: left;
-    width: 32%;
-    margin-bottom: 50px;
-    padding: 0 8px;
+    width: 33.3%;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    padding: 0 16px;
 }
 
 @media screen and (max-width: 650px) {
@@ -351,6 +375,7 @@ tr:nth-of-type(odd) {
     position: relative;
     top: 35px;
     left: 30px;
+    color: #fafafa;
 }
 
 option {
@@ -415,3 +440,7 @@ footer {
     padding: 5%;
     color: #404040;
 }
+
+
+
+

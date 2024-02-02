@@ -1,5 +1,9 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
+## SnapGym
+
+SnapGym is a South Oxfordshire based gym. This website is targeted at people who are new to the fitness world, as well as people who relatively experienced. The website also provides information regarding the gym classes, class times and the sign up page. At SnapGym, we encourage everyone to start their fitness journey with us.
+
 Welcome USER_NAME,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
