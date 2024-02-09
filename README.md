@@ -4,6 +4,30 @@
 
 SnapGym is a South Oxfordshire based gym. This website is targeted at people who are new to the fitness world, as well as people who relatively experienced. The website also provides information regarding the gym classes, class times and the sign up page. At SnapGym, we encourage everyone to start their fitness journey with us.
 
+# User Experience 
+
+## User Stories 
+
+### First time visitor 
+
+- as a first time visitor, I would like to understand the purpose of the website. I want to be able to navigate the different section of the site with ease and see what SnapGym has on offer
+- I want to be able to get in contact with the gym and sign up
+
+### Returning visitor
+
+- I want to be find out more about the different classes
+- I want to find out about classes time 
+- To keep up with updates and information via their social media links
+- To be able to access the gym site from different devices( phones, tablets and big screen desktop devices)
+
+
+# Future Features
+
+- video tour of the gym
+- video introduction of the Personal trainers
+
+
+
 Welcome USER_NAME,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
