@@ -26,6 +26,29 @@ SnapGym is a South Oxfordshire based gym. This website is targeted at people who
 - video tour of the gym
 - video introduction of the Personal trainers
 
+# Design 
+
+## Colors 
+
+- I have used two main colors for my website. The main color was a deep red and charcoal grey for the writing with a white backgroud.
+
+![Color Palette](assets/screenshots/Palette.jpg)
+
+## Font 
+
+- For the font, I decided to use a Russo one throughout the website, with sans-serif to fall back on. The Russo one is a very clean font which makes it very easy to read
+
+# Navigation 
+
+- SnapGym, which is the name of the website, is placed on the top left hand side of the page
+- The 3 nagivation links (Home, Clases and SignUp page) are on the top right hand side of the page. 
+- For easier navigation experiences, the nav links are highlighted 
+
+# Header 
+
+- For the landing page on the header section, I have included a carousel which consist of 5 pictures
+
+
 
 
 Welcome USER_NAME,
