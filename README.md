@@ -66,6 +66,15 @@ for classes
 - The footer is designed in a way that the user can stay connected to SnapGym via Twitter, Instagram and Tiktok
 
 
+# Workout Classes Page 
+
+- This section of the website displays the 4 different classes SnapGym has on offer. Strength, Circuit, HIIT and Cycle workouts.
+- Each workout boxes contain short explanation under the workout images, helps the user understands what the workouts are all about
+
+# Timetable 
+
+- This section provides the users with the workout timetables 
+
 
 
 
