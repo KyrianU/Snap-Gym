@@ -48,6 +48,25 @@ SnapGym is a South Oxfordshire based gym. This website is targeted at people who
 
 - For the landing page on the header section, I have included a carousel which consist of 5 pictures
 
+## Home 
+
+- The homepage, with the use of the carousel will enable the user to know that this is a gym site
+- 
+
+## About SnapGym
+
+- This section informs the user of what is on offer at SnapGym
+- The aim of this section is to encourage the user to engage with the rest of the site and sign up
+for classes 
+
+## Footer 
+
+- The footer section has links to SnapGym's main social media accounts. The links will open in a new tab for better user experience
+- News & update will be posted on the social media accounts 
+- The footer is designed in a way that the user can stay connected to SnapGym via Twitter, Instagram and Tiktok
+
+
+
 
 
 
