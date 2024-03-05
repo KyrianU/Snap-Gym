@@ -89,7 +89,7 @@ nav {
     left: 0;
     padding: 0 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
-    display: none;
+    display: block;
     top: 100%;
 }
 
@@ -249,9 +249,13 @@ nav {
     
 }
 
+.row1 {
+    width: 100%;
+}
+
 .column1 {
     float: left;
-    width: 23%;
+    width: 25%;
     padding: 0 10px;
     margin-top: 16px;
 }
