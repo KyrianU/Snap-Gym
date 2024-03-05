@@ -59,12 +59,17 @@ SnapGym is a South Oxfordshire based gym. This website is targeted at people who
 - The aim of this section is to encourage the user to engage with the rest of the site and sign up
 for classes 
 
+## Meet the team 
+
+- This section introduces the user to the 3 gym instuctors at SnapGym
+![Meet the Team](assets/screenshots/meet%20the%20team.png)
+
 ## Footer 
 
 - The footer section has links to SnapGym's main social media accounts. The links will open in a new tab for better user experience
 - News & update will be posted on the social media accounts 
 - The footer is designed in a way that the user can stay connected to SnapGym via Twitter, Instagram and Tiktok
-
+![Footer](assets/screenshots/footer.png)
 
 ## Workout Classes Page 
 
