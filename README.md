@@ -75,6 +75,7 @@ for classes
 
 - This section of the website displays the 4 different classes SnapGym has on offer. Strength, Circuit, HIIT and Cycle workouts.
 - Each workout boxes contain short explanation under the workout images, helps the user understands what the workouts are all about
+![Workout Classes](assets/screenshots/workout%20classes.png)
 
 ## Timetable 
 
