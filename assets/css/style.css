@@ -194,6 +194,10 @@ nav {
     margin-bottom: 25px;
 }
 
+.card-row {
+    width: 100%;
+}
+
 .column {
     float: left;
     width: 33.3%;
@@ -348,6 +352,7 @@ tr:nth-of-type(odd) {
 
     text-align: right;
     margin-right: 35%;
+
 }
 
 .form {
