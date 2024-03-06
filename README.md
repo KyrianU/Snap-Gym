@@ -86,6 +86,15 @@ for classes
 - This section of the website features a main image with a sign up form within the image. Users will then be able to fill out their details on the form and pick the selcted classes and time they wish to attend.
 
 
+## Technology 
+
+The technologies used are as follows:
+- HTML
+- CSS
+
+# Credits
+
+
 
 
 

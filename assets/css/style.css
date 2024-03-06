@@ -16,9 +16,8 @@ header {
     display: flex;
     z-index: 100;
     box-shadow: 0 2px 2px #990000;
-    align-items: baseline;
+    align-items: center;
     justify-content: space-between;
-    position: fixed;
     padding: 0 1rem;
 }
 
@@ -83,14 +82,11 @@ h1 {
 }
 
 nav {
-    position: absolute;
+    
     background-color: #ffffff;
     width: 100%;
-    left: 0;
     padding: 0 1rem;
-    box-shadow: 0 2px 2px #3a3a3a;
-    display: none;
-    top: 100%;
+    display: block;
 }
 
 #nav-toggle:checked~nav {
@@ -239,8 +235,7 @@ nav {
 /* Types of workout classes */
 
 #workout-header>h2 {
-    margin-top: 70px;
-    margin-bottom: 20px;
+    margin-top: 20px;
     text-align: center;
     padding: 30px 0;
     text-align: center;
@@ -302,8 +297,8 @@ nav {
 }
 
 table {
-    border: 5px solid #ff8080;
-    background-color: azure;
+    border: 5px solid #000000;
+    background-color: #ffffff;
     margin: 0 auto;
     margin-bottom: 50px;
     width: 75%;
@@ -313,10 +308,10 @@ table {
 table th {
     font-size: 15px;
     padding: 20px;
-    text-align: left;
+    text-align: center;
     margin: 20px;
-    border-bottom: 1px solid #ff9999;
-    background-color: #ff9999;
+    border-bottom: 1px solid #333333;
+    background-color: #999999;
 }
 
 table td {
@@ -326,7 +321,7 @@ table td {
 }
 
 tr:nth-of-type(odd) {
-    background-color: #ff6666;
+    background-color: #bfbfbf;
 }
 
 /* Google maps location */
