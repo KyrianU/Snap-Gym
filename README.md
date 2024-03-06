@@ -84,7 +84,9 @@ for classes
 
 ## Timetable 
 
-- This section provides the users with the workout timetables 
+- This section provides the users with the workout timetables
+![Timetable header](assets/screenshots/timetable%20header.png)
+![Timetable](assets/screenshots/timetable.png)
 
 ## Contact Page
 
