@@ -43,15 +43,20 @@ SnapGym is a South Oxfordshire based gym. This website is targeted at people who
 - SnapGym, which is the name of the website, is placed on the top left hand side of the page
 - The 3 nagivation links (Home, Clases and SignUp page) are on the top right hand side of the page. 
 - For easier navigation experiences, the nav links are highlighted 
+![Navigation links](/assets/screenshots/Screenshot%202024-03-06%20at%2021.45.34.png)
 
 # Header 
 
 - For the landing page on the header section, I have included a carousel which consist of 5 pictures
+![header 2](assets/screenshots/header%202.png)
+![header 1](assets/screenshots/Header%201.png)
+![header 3](assets/screenshots/header%203.png)
+![header 5](assets/screenshots/header%205.png)
+![header 4](assets/screenshots/header%204.png)
 
 ## Home 
 
 - The homepage, with the use of the carousel will enable the user to know that this is a gym site
-- 
 
 ## About SnapGym
 
