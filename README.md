@@ -88,6 +88,11 @@ for classes
 ![Timetable header](assets/screenshots/timetable%20header.png)
 ![Timetable](assets/screenshots/timetable.png)
 
+## Where to find us
+
+This section allows the user to see where the gym is located
+![Where to find us](assets/screenshots/Where%20to%20find%20us.png)
+
 ## Contact Page
 
 - This section of the website features a main image with a sign up form within the image. Users will then be able to fill out their details on the form and pick the selcted classes and time they wish to attend.
