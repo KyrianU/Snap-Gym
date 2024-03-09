@@ -82,11 +82,13 @@ h1 {
 }
 
 nav {
-    
+
     background-color: #ffffff;
     width: 100%;
+    left: 0;
     padding: 0 1rem;
     display: block;
+
 }
 
 #nav-toggle:checked~nav {
@@ -169,8 +171,8 @@ nav {
     border-radius: 10px;
     width: 66%;
     margin: 2%;
-    background-color: #e60000;
-    border: 2px solid #404040;
+    background-color: #999999;
+    border: 4px solid #990000;
     position: relative;
     left: 15%;
     top: 30px;
@@ -286,7 +288,6 @@ nav {
     clear: left;
     background-size: cover;
     background-position: center;
-    height: 850px;
 }
 
 #page-header>h2 {
@@ -336,6 +337,7 @@ tr:nth-of-type(odd) {
     text-align: center;
 }
 
+
 #location > iframe {
     margin: auto;
     margin-top: 40px;
@@ -374,7 +376,7 @@ tr:nth-of-type(odd) {
     max-width: 390px;
     height: 600px;
     padding: 50px;
-    border: 2px solid #333333;
+    border: 5px solid #990000;
     border-radius: 5%;
     position: relative;
     top: 35px;
@@ -410,6 +412,7 @@ select {
 .button-join {
 
     border-radius: 4px;
+    margin-top: 15px;
     padding: 15px 20px 15px 20px;
     box-sizing: border-box;
     text-align: center;
