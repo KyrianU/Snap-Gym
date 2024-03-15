@@ -23,8 +23,9 @@ SnapGym is a South Oxfordshire based gym. This website is targeted at people who
 
 # Future Features
 
-- video tour of the gym
-- video introduction of the Personal trainers
+- Video tour of the gym
+- Video introduction/short paragraph of the Personal trainers background
+- 30 second videos of the classes offered at SnapGym
 
 # Wireframes
 
@@ -114,13 +115,13 @@ This section allows the user to see where the gym is located
 There was no errors returned when passing the code from my 3 html files through the [W3C Markup Validator](https://validator.w3.org/)
 
 - Home Page
-[Home](assets/screenshots/index-validator.png)
+![Home](assets/screenshots/index-validator.png)
 
 - Classes Page
-[Classes](assets/screenshots/classes-validator.png)
+![Classes](assets/screenshots/classes-validator.png)
 
 - Sign up
-[Sign Up](assets/screenshots/signup-validator.png)
+![Sign Up](assets/screenshots/signup-validator.png)
 
 ### CSS
 
@@ -139,16 +140,17 @@ The technologies used are as follows:
 
 - [Font Awesome](https://fontawesome.com/) The icons on the site where taking from font awesome
 - [Google Fonts](https://fonts.google.com/) Where the fonts used on the website were taking from
-- The map was from [Google Maps](https://www.google.com/maps)
+- The map on the classes page was taken from [Google Maps](https://www.google.com/maps)
 
 ## Media
 
-- The images used on the site were taken from [Pexels](https://www.pexels.com/)
+- The images used on the site were taken from [Pexels](https://www.pexels.com/) & [Shuttershock](https://www.shutterstock.com/search/gym)
 
 ## Code
-- [W3schools] where the code for the team section was taking from
+- [W3schools](https://www.w3schools.com/howto/howto_css_column_cards.asp) where the code for the team section was taking from
 - Header and navigation were taken from the Walkthrough project "Love Running"
 - Image slider as the header was taken from [Youtube](https://www.youtube.com/watch?v=hRyDECs2N8I)
+- [W3C Markup Validator](https://validator.w3.org/) & [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) were used for testing of my codes
 
 
 
