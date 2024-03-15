@@ -127,6 +127,8 @@ There was no errors returned when passing the code from my 3 html files through 
 
 Ther was no errors returned when passing the code through the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
+![CSS validator](assets/screenshots/Css-validator.png)
+
 
 ## Technology 
 
