@@ -69,7 +69,7 @@ SnapGym is a South Oxfordshire based gym. This website is targeted at people who
 - This section informs the user of what is on offer at SnapGym
 - The aim of this section is to encourage the user to engage with the rest of the site and sign up
 for classes 
-! [About Gym](assets/screenshots/Screenshot%202024-03-09%20at%2002.36.05.png)
+![About Gym](assets/screenshots/Screenshot%202024-03-09%20at%2002.36.05.png)
 
 ## Meet the team 
 
@@ -104,6 +104,27 @@ This section allows the user to see where the gym is located
 
 - This section of the website features a main image with a sign up form within the image. Users will then be able to fill out their details on the form and pick the selcted classes and time they wish to attend.
 ![SignUp](assets/screenshots/signup%20page.png)
+
+# Testing
+
+## Validator Testing
+
+### HTML
+
+There was no errors returned when passing the code from my 3 html files through the [W3C Markup Validator](https://validator.w3.org/)
+
+- Home Page
+[Home](assets/screenshots/index-validator.png)
+
+- Classes Page
+[Classes](assets/screenshots/classes-validator.png)
+
+- Sign up
+[Sign Up](assets/screenshots/signup-validator.png)
+
+### CSS
+
+Ther was no errors returned when passing the code through the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 
 ## Technology 
