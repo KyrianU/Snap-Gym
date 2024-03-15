@@ -26,6 +26,12 @@ SnapGym is a South Oxfordshire based gym. This website is targeted at people who
 - video tour of the gym
 - video introduction of the Personal trainers
 
+# Wireframes
+
+![home](assets/screenshots/home.png)
+![Classes](assets/screenshots/classes.png)
+![Signup](assets/screenshots/signup.png)
+
 # Design 
 
 ## Colors 
@@ -97,6 +103,7 @@ This section allows the user to see where the gym is located
 ## SignUp Page
 
 - This section of the website features a main image with a sign up form within the image. Users will then be able to fill out their details on the form and pick the selcted classes and time they wish to attend.
+![SignUp](assets/screenshots/signup%20page.png)
 
 
 ## Technology 
