@@ -4,6 +4,8 @@
 
 SnapGym is a South Oxfordshire based gym. This website is targeted at people who are new to the fitness world, as well as people who relatively experienced. The website also provides information regarding the gym classes, class times and the sign up page. At SnapGym, we encourage everyone to start their fitness journey with us.
 
+![Am I responsive](assets/screenshots/Am%20i%20responsive.png)
+
 # User Experience 
 
 ## User Stories 
@@ -129,7 +131,6 @@ Ther was no errors returned when passing the code through the [W3C CSS Validator
 
 ![CSS validator](assets/screenshots/Css-validator.png)
 
-
 ## Technology 
 
 The technologies used are as follows:
@@ -151,7 +152,7 @@ The technologies used are as follows:
 ## Code
 - [W3schools](https://www.w3schools.com/howto/howto_css_column_cards.asp) where the code for the team section was taking from
 - Header and navigation were taken from the Walkthrough project "Love Running"
-- Image slider as the header was taken from [Youtube](https://www.youtube.com/watch?v=hRyDECs2N8I)
+- Image slider as the header was taken from ![Youtube](https://www.youtube.com/watch?v=hRyDECs2N8I)
 - [W3C Markup Validator](https://validator.w3.org/) & [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) were used for testing of my codes
 
 
