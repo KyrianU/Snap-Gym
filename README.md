@@ -110,6 +110,21 @@ This section allows the user to see where the gym is located
 
 # Testing
 
+## Manual Testing
+
+- I have performed a series of testing to make sure the site is fully responsive on all platforms
+- The links in the navigation bar redirects the user to the designated section of the page
+- The social media icons in the footer element directs the user to their designated social media link which will open up in a new tab
+
+## Device Testing 
+
+- I have tested my site on devices such as Iphone 14, Samsung galaxy tab A13, Hp desktop and all came back without issues
+
+## Lighthouse report 
+
+- 
+
+
 ## Validator Testing
 
 ### HTML
