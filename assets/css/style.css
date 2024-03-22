@@ -461,6 +461,7 @@ select {
 footer {
 
     border-top: 3px solid #990000;
+    margin-top: auto;
 }
 
 #social-networks {
