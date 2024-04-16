@@ -122,7 +122,14 @@ This section allows the user to see where the gym is located
 
 ## Lighthouse report 
 
-- 
+- Home Page
+![Home](assets/screenshots/home-report.png)
+
+- Classes Page
+![Classes](assets/screenshots/classes-report.png)
+
+- SignUp Page
+![Signup](assets/screenshots/Signup-report.png)
 
 
 ## Validator Testing
