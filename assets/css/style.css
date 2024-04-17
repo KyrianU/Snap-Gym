@@ -416,6 +416,7 @@ tr:nth-of-type(odd) {
 option {
     display: inline-block;
     text-align: center;
+    background: #990000;
 }
 
 .text-input {
@@ -447,13 +448,14 @@ select {
     text-align: center;
     font-size: 100%;
     background-color: #fafafa;
+    margin-left: 25%;
 
 }
 
 .button-join:hover {
 
     background-color: #990000;
-    color: #333333;
+    color: #ffffff;
 }
 
 /* footer section */
