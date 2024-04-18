@@ -408,8 +408,7 @@ tr:nth-of-type(odd) {
     border: 5px solid #990000;
     border-radius: 5%;
     position: relative;
-    top: 35px;
-    left: 30px;
+    top: 5%;
     color: #fafafa;
 }
 
