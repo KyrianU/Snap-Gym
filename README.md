@@ -28,6 +28,7 @@ SnapGym is a South Oxfordshire based gym. This website is targeted at people who
 - Video tour of the gym
 - Video introduction/short paragraph of the Personal trainers background
 - 30 second videos of the classes offered at SnapGym
+- Information in regards to price subscription
 
 # Wireframes
 
@@ -158,7 +159,9 @@ Ther was no errors returned when passing the code through the [W3C CSS Validator
 The technologies used are as follows:
 - HTML
 - CSS
-
+- Github
+- Gitpod
+- Balsamiq
 
 # Credits
 
