@@ -132,6 +132,15 @@ This section allows the user to see where the gym is located
 - SignUp Page
 ![Signup](assets/screenshots/Signup-report.png)
 
+# Bugs
+
+ - The size of the form div on the Signup page was causing a horizontal scroll on smaller screen resolutions, I removed some of the css attributes such as "top: 15% & left: 15%" which fixed the issue
+ - The size of my images were causing delays in the site loading up and therefore affecting the perfomance, I used a few image compressing websites to reduce the size of my images.
+
+# Unresolved Bugs
+
+ - Due to the nature of the required attribute on the select element in the SignUp form, the user has to select every workout classes and time schedule before being able to sign up for a class.
+
 
 ## Validator Testing
 
@@ -162,6 +171,17 @@ The technologies used are as follows:
 - Github
 - Gitpod
 - Balsamiq
+
+# Deployment
+
+- The website was deployed via GitHub pages. The steps for the process of deployment are as follows:
+    - In the GitHub repository, navigate to the settings tab
+    - From the source section drop-down menu, select the Master Branch
+    - Once the master branch has been selected, the page will will be refreshed with a detail ribbon display to 
+      indicate that the website has been succesfully deployed
+
+The link to the deployed site can be found here
+
 
 # Credits
 
