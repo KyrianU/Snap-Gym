@@ -180,7 +180,7 @@ The technologies used are as follows:
     - Once the master branch has been selected, the page will will be refreshed with a detail ribbon display to 
       indicate that the website has been succesfully deployed
 
-The link to the deployed site can be found here
+The link to the deployed site can be found here [SnapGym](https://kyrianu.github.io/Snap-Gym/)
 
 
 # Credits
